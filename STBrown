@@ -240,6 +240,31 @@ var soundtracks = {
       {
         "name": "George H.W. Bush - Hard Times",
         "url": "https://od.lk/s/MV8zMzYzNDM3MzFf/George%20H.W.%20Bush%20-%20Hard%20Times.mp3"
+  }
+    ]
+  },
+  1: {
+    name: "90sjig",
+    tracklist: [
+      {
+        "name": "M.C. Hammer - U Can't Touch This",
+        "url": "https://od.lk/s/OThfMzk2Nzg5ODdf/cant%20touch%20this.mp3"
+      },
+      {
+        "name": "Spice Girls - Wannabe",
+        "url": "https://od.lk/s/OThfMzk2Nzg5OTFf/wannabe.mp3"
+      },
+     {
+        "name": "Coolio - Gangsta's Paradise",
+        "url": "https://od.lk/s/OThfMzk2Nzg5OTBf/gangstah%20para.mp3"
+      },
+      {
+        "name": "Nirvana - Smells Like Teen Spirit",
+        "url": "https://od.lk/s/OThfMzk2Nzg5OTJf/smeells%20like%20spirit.mp3"
+      },
+      {
+        "name": "Radiohead - Creep",
+        "url": "https://od.lk/s/OThfMzk2Nzg5ODlf/creep.mp3"
       }
     ]
   }
